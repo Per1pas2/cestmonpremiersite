@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(135deg,red,blue)no-repeat center center fixed;
+}
+
+nav{
+    background: linear-gradient(135deg,blue,red)no-repeat center center fixed;
+    padding: 20px;
+}
+
+button{
+    font-family: "bebas Neue", serif;
+    font-size: 30px;
+    background: linear-gradient(135deg,red,blue);
+    text-decoration-color: #000000;
+    border-style: double;
+    border-color: #000000;
+}
+
+.anciensite{
+    text-decoration: none;
+     color: #000000;
+}
