@@ -20,3 +20,16 @@ button{
     text-decoration: none;
      color: #000000;
 }
+.centertexte{
+    text-align: center;
+    font-family: "bebas Neue", serif;
+    font-size: 30px;
+}
+
+.endtexte{
+
+}
+
+h1{
+    font-family: "bebas Neue", serif;
+}
